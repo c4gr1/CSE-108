@@ -1,3 +1,3 @@
 # CSE-108
 
-First 3 of project not included because of missing
+The first 3 of the projects were not included because they were deleted
